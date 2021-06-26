@@ -1,0 +1,61 @@
+.wrapper{
+  display: flex;
+  align-items: center;
+  margin-top: 100px;
+}
+.stick{
+  background: gray;
+  position: relative;
+  margin: 0 1px;
+}
+.bg-red{
+  background: red;
+}
+.tag-wrapper{
+  width: max-content;
+  position: absolute;
+  transform: translate(-43%, -90%);
+  fonot
+}
+.box{
+  height: 20px;
+  padding: 5px;
+  width: max-content;
+  color: #fff;
+  border-radius: 10%;
+}
+.pipe{
+  height: 70px;
+  width: 3px;
+  margin: auto;
+  margin-bottom: -1px;
+}
+.circle{
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  margin: auto;
+}
+.player-controls{
+  font-size: 50px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  color: #0000FF;
+  cursor: pointer;
+}
+.green{
+  background: #00FF00;
+}
+.blue{
+  background: #0000FF;
+}
+.yellow{
+  background: #FFFF00;
+}
+.black{
+  background: #000;
+}
+.brown{
+  background: #964B00;
+}
